@@ -15,7 +15,6 @@ I'm Jesse, a Student Developer from the Netherlands 🇳🇱
 ## Frameworks & Libraries
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
@@ -29,17 +28,19 @@ I'm Jesse, a Student Developer from the Netherlands 🇳🇱
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-## Projects
+## Where To Find Me
 
-- 🚀 VenoHub
-- 🌐 Razeor.nl
-- 🤖 Discord Bots
-- ⚙️ Self Hosted Services
+[![Portfolio](https://img.shields.io/badge/Portfolio-razeor.nl-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.razeor.nl)
+
+[![Website](https://img.shields.io/badge/Website-razeor.nl-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://razeor.nl)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Razor810-181717?style=for-the-badge&logo=github)](https://github.com/Razor810)
+
+
 
 ## GitHub Stats
 
@@ -48,3 +49,8 @@ I'm Jesse, a Student Developer from the Netherlands 🇳🇱
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Razor810&layout=compact&theme=tokyonight)
 
 ![](https://streak-stats.demolab.com?user=Razor810&theme=tokyonight)
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Razor810&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Razor810?label=Followers&style=for-the-badge&color=blue" />
+</p>
