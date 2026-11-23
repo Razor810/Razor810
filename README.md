@@ -42,8 +42,6 @@ I'm Jesse, a Student Developer from the Netherlands 🇳🇱
 
 ![](https://github-readme-stats.vercel.app/api?username=Razor810&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Razor810&layout=compact&theme=tokyonight)
-
 ![](https://streak-stats.demolab.com?user=Razor810&theme=tokyonight)
 
 <p align="left">
