@@ -30,12 +30,13 @@ I'm Jesse, a Student Developer from the Netherlands 🇳🇱
 
 ## Where To Find Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-blue?style&logo=google-chrome&logoColor=white](https://portfolio.razeor.nl)
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.razeor.nl-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.razeor.nl)
 
-https://img.shields.io/badge/Main_Website-razeor.nl-black?style=for-the-badge&logo=firefox-browser&logoColor=white](https://razeor.nl)
+[![Website](https://img.shields.io/badge/Website-razeor.nl-black?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://razeor.nl)
 
-https://img.shields.io/badge/GitHub-Razor810-181717?style=for-the-badge&logo=github&logoColor=white](https://github.com/Razor810)
+[![GitHub](https://img.shields.io/badge/GitHub-Razor810-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Razor810)
 
+[![VenoHub](https://img.shields.io/badge/VenoHub-venohub.com-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://venohub.com)
 
 
 
