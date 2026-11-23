@@ -54,16 +54,8 @@ I'm Jesse, a Student Developer from the Netherlands 🇳🇱
 
 ## 🚀 Projects
 
-<p align="center">
-  <a href="https://venohub.com">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Razor810&repo=venohub&theme=tokyonight" />
-  </a>
+https://img.shields.io/badge/VenoHub-Live-blue?style=for-the-badge](https://venohub.com)
 
-  <a href="https://razeor.nl">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Razor810&repo=razeor.nl&theme=tokyonight" />
-  </a>
+https://img.shields.io/badge/Razeor-Live-black?style=for-the-badge](https://razeor.nl)
 
-  <a href="https://shopesto.vercell.app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Razor810&repo=shopesto&theme=tokyonight" />
-  </a>
-</p>
+https://img.shields.io/badge/Portfolio-Live-purple?style=for-the-badge](https://portfolio.razeor.nl))
