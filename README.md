@@ -54,8 +54,8 @@ I'm Jesse, a Student Developer from the Netherlands 🇳🇱
 
 ## 🚀 Projects
 
-https://img.shields.io/badge/VenoHub-Live-blue?style=for-the-badge](https://venohub.com)
+[![VenoHub](https://img.shields.io/badge/VenoHub-Live-blue?style=for-the-badge)](https://venohub.com)
 
-https://img.shields.io/badge/Razeor-Live-black?style=for-the-badge](https://razeor.nl)
+[![Razeor](https://img.shields.io/badge/Razeor-Live-black?style=for-the-badge)](https://razeor.nl)
 
-https://img.shields.io/badge/Portfolio-Live-purple?style=for-the-badge](https://portfolio.razeor.nl))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-purple?style=for-the-badge)](https://portfolio.razeor.nl)
