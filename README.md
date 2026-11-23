@@ -36,7 +36,7 @@ I'm Jesse, a Student Developer from the Netherlands 🇳🇱
 
 [![GitHub](https://img.shields.io/badge/GitHub-Razor810-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Razor810)
 
-[![VenoHub](https://img.shields.io/badge/VenoHub-venohub.com-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://venohub.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesse-klok-371b41396/)
 
 
 
