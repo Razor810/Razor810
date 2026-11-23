@@ -14,7 +14,6 @@ I'm Jesse, a Student Developer from the Netherlands 🇳🇱
 
 ## Frameworks & Libraries
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
@@ -28,7 +27,6 @@ I'm Jesse, a Student Developer from the Netherlands 🇳🇱
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Where To Find Me
 
@@ -51,4 +49,21 @@ I'm Jesse, a Student Developer from the Netherlands 🇳🇱
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Razor810&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/Razor810?label=Followers&style=for-the-badge&color=blue" />
+</p>
+
+
+## 🚀 Projects
+
+<p align="center">
+  <a href="https://venohub.com">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Razor810&repo=portfolio-lvl-2&theme=tokyonight" />
+  </a>
+
+  <a href="https://razeor.nl">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Razor810&repo=Php-lessen&theme=tokyonight" />
+  </a>
+
+  <a href="https://shopesto.vercell.app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Razor810&repo=Php-lessen&theme=tokyonight" />
+  </a>
 </p>
