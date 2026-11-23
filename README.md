@@ -32,7 +32,7 @@ I'm Jesse, a Student Developer from the Netherlands 🇳🇱
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-razeor.nl-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.razeor.nl)
 
-[![Website](https://img.shields.io/badge/Website-razeor.nl-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://razeor.nl)
+[![Website](https://img.shields.io/badge/Website-razeor.nl-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=blue)](https://razeor.nl)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Razor810-181717?style=for-the-badge&logo=github)](https://github.com/Razor810)
 
