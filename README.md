@@ -56,14 +56,14 @@ I'm Jesse, a Student Developer from the Netherlands 🇳🇱
 
 <p align="center">
   <a href="https://venohub.com">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Razor810&repo=portfolio-lvl-2&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Razor810&repo=venohub&theme=tokyonight" />
   </a>
 
   <a href="https://razeor.nl">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Razor810&repo=Php-lessen&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Razor810&repo=razeor.nl&theme=tokyonight" />
   </a>
 
   <a href="https://shopesto.vercell.app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Razor810&repo=Php-lessen&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Razor810&repo=shopesto&theme=tokyonight" />
   </a>
 </p>
